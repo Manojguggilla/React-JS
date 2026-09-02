@@ -1,4 +1,6 @@
 
+import React from "react";
+import ReactDOM from "react-dom/client";
 //   const header = document.createElement("h1");
 //         header.innerHTML = "Hello, tagss";
 //         header.id = "heading";
